@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.AssemblyInfo.cs
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c##\DZ51\bin\Debug\net7.0\DZ51.exe
+C:\Users\User\Desktop\c##\DZ51\bin\Debug\net7.0\DZ51.deps.json
+C:\Users\User\Desktop\c##\DZ51\bin\Debug\net7.0\DZ51.runtimeconfig.json
+C:\Users\User\Desktop\c##\DZ51\bin\Debug\net7.0\DZ51.dll
+C:\Users\User\Desktop\c##\DZ51\bin\Debug\net7.0\DZ51.pdb
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.dll
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\refint\DZ51.dll
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.pdb
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\DZ51.genruntimeconfig.cache
+C:\Users\User\Desktop\c##\DZ51\obj\Debug\net7.0\ref\DZ51.dll
